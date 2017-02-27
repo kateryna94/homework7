@@ -221,7 +221,7 @@ main {
     background-color: #f9f9f9;
 }
 .content__article {
-    background-image: url('../img/bc-article.png');
+    /*background-image: url('../img/bc-article.png');*/
     background-color: #fff;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
@@ -385,7 +385,6 @@ main {
     border: 1px solid #454545;
 }
 
-}
 @media screen and (min-width: 960px) {
     .wrapper_header {
         display: flex;
